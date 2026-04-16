@@ -1,0 +1,9 @@
+channel_name,avg_clv,median_clv,customer_count,avg_minutes,customer_pct
+Instagram,129.05,119.35,1094,2004.79,28.5
+Other,123.19,119.0,288,2314.08,7.5
+YouTube,121.15,119.0,671,1810.36,17.5
+Facebook,115.18,119.0,289,1299.33,7.5
+Friend Referral,113.65,118.66,478,2006.19,12.5
+Google,108.26,119.0,306,2767.64,8.0
+LinkedIn,107.37,119.0,650,1589.38,17.0
+Twitter/X,93.15,62.58,58,985.33,1.5

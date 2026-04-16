@@ -1,0 +1,83 @@
+================================================================================
+CUSTOMER SEGMENTATION MARKETING STRATEGY REPORT
+================================================================================
+
+EXECUTIVE SUMMARY
+----------------------------------------
+Total Customers Analyzed: 3,834
+Number of Segments Identified: 4
+Analysis Date: 2026-04-16
+
+KEY FINDINGS
+----------------------------------------
+• Instagram is the HIGHEST PERFORMING channel ($129 avg CLV)
+• Twitter/X is UNDERPERFORMING ($93 avg CLV)
+• LinkedIn and Facebook also underperform
+• Cluster with 0.2% of users watches 132,000+ minutes - these are super users!
+
+CLUSTER PROFILES
+----------------------------------------
+
+📚 Active Learners
+  • Size: 26.8% of customers
+  • Avg CLV: $112.40
+  • Avg Minutes: 1701
+  • Primary Region: Anglo-Saxon
+  • Primary Channel: Friend Referral
+
+📚 Active Learners
+  • Size: 38.4% of customers
+  • Avg CLV: $89.15
+  • Avg Minutes: 1727
+  • Primary Region: Anglo-Saxon
+  • Primary Channel: Instagram
+
+⭐ Elite Engaged Members
+  • Size: 34.7% of customers
+  • Avg CLV: $154.68
+  • Avg Minutes: 1703
+  • Primary Region: Rest of World
+  • Primary Channel: Instagram
+
+🎯 Ultra-Engaged Power Users
+  • Size: 0.2% of customers
+  • Avg CLV: $266.55
+  • Avg Minutes: 132411
+  • Primary Region: Anglo-Saxon
+  • Primary Channel: Instagram
+
+
+CHANNEL PERFORMANCE RANKING
+----------------------------------------
+1. Instagram: ✅ HIGH (CLV: $129, Engagement: 2005 min)
+2. Other: ✅ HIGH (CLV: $123, Engagement: 2314 min)
+3. YouTube: 📊 MIXED (CLV: $121, Engagement: 1810 min)
+4. Facebook: ⚠️ LOW (CLV: $115, Engagement: 1299 min)
+5. Friend Referral: 📊 MIXED (CLV: $114, Engagement: 2006 min)
+6. Google: 📊 MIXED (CLV: $108, Engagement: 2768 min)
+7. LinkedIn: ⚠️ LOW (CLV: $107, Engagement: 1589 min)
+8. Twitter/X: ⚠️ LOW (CLV: $93, Engagement: 985 min)
+
+
+RECOMMENDATIONS
+----------------------------------------
+
+BUDGET REALLOCATION:
+  • INCREASE spend on: Instagram, Other
+  • DECREASE spend on: Facebook, LinkedIn, Twitter/X
+
+REGIONAL STRATEGY:
+  • Anglo-Saxon: Focus on Instagram (CLV) and Google (engagement)
+  • Rest of World: Focus on Instagram (CLV) and Friend Referral (engagement)
+  • Europe: Focus on Instagram (CLV) and Other (engagement)
+
+CLUSTER-SPECIFIC TACTICS:
+  • 📚 Active Learners: MONETIZE ENGAGEMENT
+  • 📚 Active Learners: MONETIZE ENGAGEMENT
+  • ⭐ Elite Engaged Members: NURTURE & REWARD
+  • 🎯 Ultra-Engaged Power Users: PREMIUM RETENTION
+
+
+================================================================================
+END OF REPORT
+================================================================================

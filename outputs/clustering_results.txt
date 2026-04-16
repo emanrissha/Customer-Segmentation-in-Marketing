@@ -1,0 +1,3 @@
+Hierarchical optimal clusters: 4
+K-Means optimal clusters: 7
+Final clusters to use: 4

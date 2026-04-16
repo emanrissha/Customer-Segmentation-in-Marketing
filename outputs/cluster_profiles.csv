@@ -1,0 +1,5 @@
+Cluster,name,explanation,size_pct,avg_clv,avg_minutes,top_channel,top_region,engagement,clv_level
+0,📚 Active Learners,"Engaged students with moderate CLV, primarily from Anglo-Saxon via Friend Referral",26.8,112.4,1701.0,Friend Referral,Anglo-Saxon,High,Medium
+1,📚 Active Learners,"Engaged students with moderate CLV, primarily from Anglo-Saxon via Instagram",38.4,89.15,1727.0,Instagram,Anglo-Saxon,High,Medium
+2,⭐ Elite Engaged Members,"Highly engaged students with premium CLV, primarily from Rest of World via Instagram",34.7,154.68,1703.0,Instagram,Rest of World,High,High
+3,🎯 Ultra-Engaged Power Users,Extremely high engagement (132411 minutes) with premium CLV ($267),0.2,266.55,132411.0,Instagram,Anglo-Saxon,High,High
